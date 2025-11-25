@@ -2,6 +2,6 @@
 
 def reloj_arena(m: int, s: str) -> str:
     # TODO: validar altura mayor que 0 e imprimir "Error: La altura debe ser un entero positivo" y salir
-    
+    alturaMaxima = input("Ingrese la altura:")
     # TODO: implementar la lógica para generar el reloj de arena en ASCII
     pass
